@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.item {
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    background: orange;
+    border: none;
+    cursor: pointer;
+}
